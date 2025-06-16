@@ -84,7 +84,7 @@ Together, these indices represent a holistic view of a nation's development in p
 <p float="left">
   <img src="images/cluster_trend.png" width="300" />
   <img src="images/geospatial_map.png" width="300" />
-  <img src="images/feature_importance.png" width="300" />
+  <img src="images/elastic_net.png" width="300" />
 </p>
 
 *(Note: Save figures in `images/` folder and link them here)*
